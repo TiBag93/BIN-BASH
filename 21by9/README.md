@@ -1,6 +1,6 @@
 # 21by9 Script 
-@author Timo Baginski
-@version 1.0
+@author Timo Baginski @version 1.0
+
 Script to add a fixed Ascpect Ratio of 2560 x 1080 pixels.
 
 Can be adjusted by changing res_x and res_y variables.
